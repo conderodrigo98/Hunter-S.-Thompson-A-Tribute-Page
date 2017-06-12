@@ -1,0 +1,91 @@
+h1{
+  font-family:"Alfa Slab One";
+  font-size:4.5em;
+  text-align:center;
+  color:#333333;
+}
+.headerColor{
+  background-color:#b3bdb7;
+}
+.imgIntroDiv{
+  position:relative;
+  width:100%;
+}
+.imgIntro{
+  width:100%;
+}
+.quote{
+  position:absolute;
+  left:50%;
+  top:20%;
+  font-family:"Permanent Marker";
+  font-size:3.1vw;
+  display:none;
+}
+h3{
+  font-family:"Oswald";
+  font-size:40px;
+  padding-top:1%;
+  padding-left:1%;
+}
+p{
+  font-family:"Slabo 27";
+  font-size:20px;
+  padding-left:1%;
+}
+.recReads{
+  font-size:25px;
+  font-weight:bold;
+  padding-top:5%;
+  text-align:center;
+}
+.list{
+  font-family:"Slabo 27";
+  font-size:25px;
+  padding-top:2%;
+  padding-bottom:2%;
+}
+.firma{
+  font-family:"Oswald";
+  font-size:10px;
+  color:#000000;
+  background-color:#b3bdb7;
+  text-align:center;
+  padding:2% 0% 2% 0%;
+}
+
+body{background-color:#f3f6f4;}
+
+.img-body{
+  width:100%;
+}
+
+@media screen and (max-width:480px){
+  h1{
+    font-size:3em;
+  }
+  
+  .imgIntroDiv{
+    width:100%;
+    overflow-x:hidden;
+  }
+  
+  .imgIntro{
+    width:260%;
+  }
+  
+  .quote{
+    display:block;
+    font-size:1.8em;
+    text-align:left;
+    left:5%;
+    top:4%;
+    color:#8b0000;
+    text-shadow:2px 2px 2px #fff;
+  }
+  
+  #cover1,#cover2,#cover3{
+    margin-left:7.5% !important;
+  }
+  
+}
