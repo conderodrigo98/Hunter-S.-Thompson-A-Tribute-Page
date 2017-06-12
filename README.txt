@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/conderodrigo98/pen/QvjwPz.
-
- Freecodecamp project. 
+This is one of my free code camp projects. A tribute page for one of my favourite writers: Hunter S. Thompson. 
